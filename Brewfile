@@ -1,1 +1,3 @@
-brew "openjdk@25,maven,beagle"
+brew "openjdk@25"
+brew "maven"
+brew "beagle"
