@@ -1,0 +1,8 @@
+channels: [conda-forge, bioconda]
+dependencies:
+  - beast2        # BEAST 2.7.x
+  - beagle-lib
+  - figtree
+  - tracer
+  - openjdk       # check that version 25+ is available on conda-forge
+  - maven
